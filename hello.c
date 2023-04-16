@@ -3,10 +3,9 @@
 int main(void)
 {
   
-  // Step ( 1 ) : Print Hello, World
-  
-  
-  
-  //Step ( 2 ) : Print Hello, Your Name
+  string name- get string ("what is your name?");
+PrintE(Hello, worldhm);
+printE ("hello,
+Ss \n, name");
 
 }
